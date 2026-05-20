@@ -1,16 +1,49 @@
-## Hi there 👋
+# Sonja Sungur
 
-<!--
-**sonjasungur/sonjasungur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Systems Engineer focused on production-oriented AI systems, MLOps, Operational Intelligence and AI workflow automation.
 
-Here are some ideas to get you started:
+🌐 Website: https://mscisystems.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Focus Areas
+
+* AI Systems Engineering
+* MLOps & AI Infrastructure
+* Operational Intelligence
+* FastAPI & AI APIs
+* MLflow / Airflow / Docker
+* AI Workflow Automation
+* Monitoring & Observability
+* Streamlit Dashboards
+* AWS-based AI Systems
+
+---
+
+## Featured Projects
+
+### Rakuten MLOps Pipeline
+
+End-to-end MLOps system with MLflow, Airflow, monitoring, model registry and deployment workflows.
+
+### AI Operational Inbox
+
+AI-powered operational intelligence platform for operational workflows, prioritization, risk analysis and automation.
+
+### Chest X-Ray AI System
+
+Medical imaging AI project for chest X-ray classification with deep learning, Grad-CAM explainability and deployment workflows.
+
+---
+
+## Tech Stack
+
+Python • FastAPI • Streamlit • MLflow • Airflow • Docker • Grafana • AWS • SQL • OpenAI APIs • Machine Learning • MLOps
+
+---
+
+## Professional Focus
+
+Building scalable AI systems that combine machine learning, backend engineering, workflow automation and operational integration.
+
+Focused on practical, deployable AI solutions rather than isolated model development.
